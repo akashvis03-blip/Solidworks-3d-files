@@ -1,4 +1,4 @@
-# Solidworks-3d-files
+# FEW EXAMPLES FROM Solidworks-3d-files
 # Part6
 
 ![Preview](Part6.png)
